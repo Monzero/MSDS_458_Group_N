@@ -1,0 +1,2 @@
+#This version is finally what we decided to deep down in.
+#here we not only create one time series of close price but also created some useful features and predicted using last 60 days of everything (close + other features)
